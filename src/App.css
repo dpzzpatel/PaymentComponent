@@ -1,0 +1,49 @@
+.img-shipping{
+  width:90%;
+  height:5vh;
+  object-fit: scale-down;
+}
+
+.payments-method{
+  padding: 2px 2px;
+  border: 1px solid;
+  color: black;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  margin:4px 2px;
+  border-radius: 16px;
+  box-sizing: border-box;
+}
+
+.img-items{
+  width:100px;
+  height: 100px;
+  border-radius: 50%;
+  
+}
+
+#totalcost{
+  padding: 5px 5px;
+  background-color: rgba(241,240,240,255);
+}
+
+.button-green{
+  border-color :rgba(122,208,167,255);
+  background-color: rgba(122,208,167,255);
+}
+
+.button-normal{
+  border-color: black;
+  background-color: white;
+  color:black;
+}
+
+.item-id{
+  color: rgba(212,212,213,255)
+}
+
+.error{
+  color:red;
+}
